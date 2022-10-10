@@ -8,5 +8,4 @@
 Steveandkrepa/Steveandkrepa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-这是一个我自己搭建的服务器，还有很多地方需要完善改进1服务器没有开、启用外网网访问
-，外国友人请自行挂梯子！
+
