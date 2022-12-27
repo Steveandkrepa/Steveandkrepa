@@ -1,6 +1,6 @@
 # HELLO WORLD!
 
-这里是袁浚皓的主页Github，很高兴认识你
+这里是袁浚皓的Github主页，很高兴认识你
 
 # 学过或正在学的语言
 ![HTML](https://img.shields.io/badge/-html-blue?style=for-the-badge&logo=html&logoColor=white)
