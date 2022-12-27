@@ -1,6 +1,6 @@
 # HELLO WORLD!
 
-这里是袁浚皓的G主页ithub，很高兴认识你
+这里是袁浚皓的主页Github，很高兴认识你
 
 # 学过或正在学的语言
 
@@ -8,6 +8,8 @@
 ![CSS](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css&logoColor=white)
 
 # [我的博客网站](http://steveandkrepa.github.io)
+
+# [朋友的Github主页](http://github.com/pangxitong)
 
 # 常用的工具
 ![Xcode](https://media.macosicons.com/parse/files/macOSicons/5510ba65cb8e2eba24e55cc2a6d5f4c9_Xcode.png)
